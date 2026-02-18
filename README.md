@@ -1,0 +1,1 @@
+A basic calculator application supporting standard arithmetic operations. Created as a practice project to improve logical thinking and UI design in programming. Highlights core programming concepts like input validation and event-driven logic.
